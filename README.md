@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ANALISTA DE DATOS JR.
+Soy una persona proactiva, excelente compañera de
+equipo, organizada y responsable.
+Busco un puesto desafiante y dinámico para continuar
+sumando experiencia y conocimientos.
+
+Analista de datos Jr
+Utilización de herramientas de Analytics para el
+desarrollo de tableros de control: Power BI, Tableau.
+Mineria de datos. Aplicación de técnicas de storytelling,
+dashboarding y visualización de datos.
+Extracción de datos con MySQL, conceptos de
+arquitecturas de información.
+Esperiencia basada en el proyecto integrador.
