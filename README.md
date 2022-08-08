@@ -21,4 +21,4 @@ Esperiencia basada en el proyecto integrador.
 
 ## find me at:
 
-(![LinkedIn](https://ing.shields.io/badge/Linkedin-Aldana_Martellotti-007785?style=for-the-badge&logo=linkedin&logoColor=white&labelcolor=101010)](https://www.linkedin.com/in/martellottialdana)
+(![LinkedIn](https://img.shields.io/badge/Linkedin-Aldana_Martellotti-007785?style=for-the-badge&logo=linkedin&logoColor=white&labelcolor=101010)](https://www.linkedin.com/in/martellottialdana)
