@@ -11,7 +11,6 @@ equipo, organizada y responsable.
 Busco un puesto desafiante y dinámico para continuar
 sumando experiencia y conocimientos.
 
-Analista de datos Jr
 Utilización de herramientas de Analytics para el
 desarrollo de tableros de control: Power BI, Tableau.
 Mineria de datos. Aplicación de técnicas de storytelling,
