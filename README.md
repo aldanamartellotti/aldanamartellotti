@@ -18,3 +18,7 @@ dashboarding y visualización de datos.
 Extracción de datos con MySQL, conceptos de
 arquitecturas de información.
 Esperiencia basada en el proyecto integrador.
+
+## find me at:
+
+(![LinkedIn](https://www.linkedin.com/in/martellottialdana/
