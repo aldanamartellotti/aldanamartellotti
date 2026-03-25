@@ -5,19 +5,15 @@
 
 Here are some ideas to get you started:
 
-ANALISTA DE DATOS JR.
-Soy una persona proactiva, excelente compañera de
-equipo, organizada y responsable.
-Busco un puesto desafiante y dinámico para continuar
-sumando experiencia y conocimientos.
+QA Tester Manual | Data Analyst | Testing funcional y exploratorio | Analista de datos
 
-Utilización de herramientas de Analytics para el
-desarrollo de tableros de control: Power BI, Tableau.
-Mineria de datos. Aplicación de técnicas de storytelling,
-dashboarding y visualización de datos.
-Extracción de datos con MySQL, conceptos de
-arquitecturas de información.
-Esperiencia basada en el proyecto integrador.
+QA Tester en formación con experiencia en análisis de datos.
+
+ He realizado testing funcional y exploratorio sobre aplicaciones reales, detectando y documentando errores.
+
+ Manejo de Excel, diseño de casos de prueba y análisis de resultados.
+
+ Busco desarrollarme en el área de calidad de software aportando una mirada analítica y orientada al detalle.
 
 ## find me at:
 
